@@ -1,0 +1,85 @@
+@media (min-width: 0px) and (max-width: 480px)  {
+
+  #wrapper{
+    width:90%;
+    margin:0 auto;
+
+  }
+
+  .navbar1 ul{
+    text-align: center;
+    width:100%;
+    }
+
+  .navbar2 li{
+    display:block;
+    width:100%;
+    font-size: 1.5rem;
+  }
+
+  .mainimage{
+    width:100%;
+    background-position-x:82%;
+    zoom:0%;
+  }
+
+  .logo img{
+    width: 50%;
+    height:50%;
+    margin-top: -60%;
+  }
+
+  .articles article{
+    display:block;
+    width:100%;
+  }
+
+  .skaters{
+    display:block;
+    height:auto;
+    width:100%;
+  }
+  .col-2 , .row-1 , .rowcol-1 , .rowcol-2{
+    display:block;
+    height:auto;
+    width:100%;
+  }
+
+.col-2{
+  display:block;
+  width:100%;
+  position:relative;
+  height:40%;
+}
+
+  .col-2 img, .row-1 img, .rowcol-1 img, .rowcol-2 img{
+    display:block;
+    height:auto;
+    width:100%;
+    position:relative;
+  }
+
+    /*.skateboards ul{
+
+      height:auto;
+      width:100%;
+    }*/
+
+    /*.skateboards ul :nth-child(even){
+      display:block;
+    }*/
+    .skateboards li{
+      width:5%;
+    }
+    .skateboards img{
+      width:100%;
+    }
+
+    .footer , .leftfooter , .rightfooter{
+      display:block;
+      height:auto;
+      width:100%;
+    }
+
+
+}

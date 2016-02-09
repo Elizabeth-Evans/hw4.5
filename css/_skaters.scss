@@ -1,0 +1,77 @@
+
+/*    pictures of skaters    */
+
+.skaters{
+  padding-top: 4%;
+  display: inline-block;
+  color:white;
+  vertical-align: top;
+}
+
+.col-2{
+  background-image: url("../images/sk8er-2.png");
+  background-size: 300%;
+  background-repeat:no-repeat;
+  width:250px;
+  height: 350px;
+  margin:auto 0;
+  display: inline-block;
+  position:absolute;
+  border:white 2px solid;
+  vertical-align: top;
+  background-position-x: 80%;
+  background-position-y: 9%;
+}
+
+
+.col-1{
+  width:68%;
+  height:350px;
+  display: inline-block;
+  position:relative;
+  border:white 2px solid;
+}
+
+.row-1{
+  width:100%;
+  height:48%;
+  display: inline-block;
+  border-bottom:white 2px solid;
+}
+
+.rowcol-1{
+  background-image: url("../images/sk8er-4.png");
+  width:49%;
+  height: 100%;
+  display: inline-block;
+  border-right:white 2px solid;
+  background-position-x: 98%;
+  background-position-y: 40%;
+}
+/*.rowcol-1 img{
+  width: 48%;
+  display: inline-block;
+}*/
+
+.rowcol-2{
+  background-image: url("../images/sk8er-3.png");
+  width:49%;
+  height: 100%;
+  display: inline-block;
+  background-position-x: 27%;
+  background-position-y: 9%;
+}
+/*.rowcol-2 img{
+  width:100%;
+  display: inline-block;
+}*/
+.row-2{
+  background-image: url("../images/sk8er-1.png");
+  width: 100%;
+  height: 52%;
+  display: inline-block;
+  background-position-x: 8%;
+  background-position-y: 228%;
+  border-top: white solid 2px;
+  border-bottom: white solid 2px;
+}

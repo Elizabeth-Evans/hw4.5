@@ -1,0 +1,27 @@
+/* first navigation bar    */
+
+
+.navbar1{
+  display: inline;
+  width:100%;
+  height:20%;
+  text-align: right;
+  ul{
+    list-style-type: none;
+    display:inline-block;
+  }
+  li {
+    display: inline;
+  }
+  :first-child{
+    color:white;
+    font-size: .5rem;
+  }
+  :nth-child(2){
+      border-left: white 2px dotted;
+      padding-left: 5%;
+  }
+  img{
+    height:35px;
+  }
+}

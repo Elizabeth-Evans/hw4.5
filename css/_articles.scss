@@ -1,0 +1,50 @@
+
+.articles {
+  width:100%;
+  height:30%;
+  position:relative;
+  display: inline-block;
+  padding-top: 4%;
+
+    article{
+      /*text-align: center;*/
+      /*color:grey;*/
+      width:29.2%;
+      height:300px;
+      display:inline-block;
+      background-color: white;
+      border: white solid 5px;
+      font-size: .3rem;
+      padding-right: 1%;
+      vertical-align: top;
+      margin-left: 1.5%;
+      /*line-height:2;*/
+    }
+
+    h4{
+      color:grey;
+      font-size: 1.2rem;
+      margin-left: 4px;
+      margin-right:4px;
+    }
+
+    h5{
+      color: red;
+      text-align: center;
+    }
+}
+
+.date {
+  color:lightgrey;
+  text-align: left;
+  margin-left: 4px;
+  margin-right:4px;
+}
+.main{
+  color:grey;
+  text-align: left;
+  font-size: .3rem;
+  line-height: 2;
+  margin-left: 4px;
+  margin-right:4px;
+}
